@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C2-Pl-nova-ud-lost-")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77e2385d9240fbce5fde497b43d4e1b4cf064193")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a273713bd9b40d8cebf0619410eb4c9d3456b241")]
 [assembly: System.Reflection.AssemblyProductAttribute("C2-Pl-nova-ud-lost-")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C2-Pl-nova-ud-lost-")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,3 +13,18 @@ C:\Users\kidka\Documents\Káťa\kurz programování\C#2\C2-Pl-nova-ud-lost-\obj\
 C:\Users\kidka\Documents\Káťa\kurz programování\C#2\C2-Pl-nova-ud-lost-\obj\Debug\net9.0\C2-Pl-nova-ud-lost-.pdb
 C:\Users\kidka\Documents\Káťa\kurz programování\C#2\C2-Pl-nova-ud-lost-\obj\Debug\net9.0\C2-Pl-nova-ud-lost-.genruntimeconfig.cache
 C:\Users\kidka\Documents\Káťa\kurz programování\C#2\C2-Pl-nova-ud-lost-\obj\Debug\net9.0\ref\C2-Pl-nova-ud-lost-.dll
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\bin\Debug\net9.0\C2-Pl-nova-ud-lost-.exe
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\bin\Debug\net9.0\C2-Pl-nova-ud-lost-.deps.json
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\bin\Debug\net9.0\C2-Pl-nova-ud-lost-.runtimeconfig.json
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\bin\Debug\net9.0\C2-Pl-nova-ud-lost-.dll
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\bin\Debug\net9.0\C2-Pl-nova-ud-lost-.pdb
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\obj\Debug\net9.0\C2-Pl-nova-ud-lost-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\obj\Debug\net9.0\C2-Pl-nova-ud-lost-.AssemblyInfoInputs.cache
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\obj\Debug\net9.0\C2-Pl-nova-ud-lost-.AssemblyInfo.cs
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\obj\Debug\net9.0\C2-Pl-nova-ud-lost-.csproj.CoreCompileInputs.cache
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\obj\Debug\net9.0\C2-Pl-nova-ud-lost-.sourcelink.json
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\obj\Debug\net9.0\C2-Pl-nova-ud-lost-.dll
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\obj\Debug\net9.0\refint\C2-Pl-nova-ud-lost-.dll
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\obj\Debug\net9.0\C2-Pl-nova-ud-lost-.pdb
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\obj\Debug\net9.0\C2-Pl-nova-ud-lost-.genruntimeconfig.cache
+C:\Users\lencova\Documents\moje\C2-Pl-nova-ud-lost-\obj\Debug\net9.0\ref\C2-Pl-nova-ud-lost-.dll
